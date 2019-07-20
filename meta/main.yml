@@ -1,0 +1,20 @@
+galaxy_info:
+  role_name: "unifi"
+  author:
+    - Christian Poessinger
+  company: "-"
+  description: Installs/Manages configuration of a Unifi Controller
+  issue_tracker_url: https://github.com/c-po/ansible-role-unifi/issues
+  license: BSD
+  min_ansible_version: 2.3
+  github_branch: master
+  platforms:
+    - name: Debian
+      versions:
+        - all
+
+  galaxy_tags:
+    - unifi
+    - system
+
+dependencies: []
